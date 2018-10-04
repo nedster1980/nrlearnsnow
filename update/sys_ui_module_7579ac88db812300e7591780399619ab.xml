@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Virtual War Room">b179ac88db812300e7591780399619a9</application>
+        <filter/>
+        <name>Virtual War Rooms</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_41652_war_room.virtual_war_room_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-04 14:40:06</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7579ac88db812300e7591780399619ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Virtual War Rooms</sys_name>
+        <sys_package display_value="War room" source="x_41652_war_room">b727a8ccdb012300e75917803996190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="War room">b727a8ccdb012300e75917803996190d</sys_scope>
+        <sys_update_name>sys_ui_module_7579ac88db812300e7591780399619ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-04 14:40:06</sys_updated_on>
+        <table>x_41652_war_room_virtual_war_room</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

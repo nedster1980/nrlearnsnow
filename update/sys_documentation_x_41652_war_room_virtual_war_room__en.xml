@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Virtual War Room" language="en" table="x_41652_war_room_virtual_war_room">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Virtual War Room</label>
+            <language>en</language>
+            <name>x_41652_war_room_virtual_war_room</name>
+            <plural>Virtual War Rooms</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-04 14:40:07</sys_created_on>
+            <sys_id>3979ac88db812300e7591780399619e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Virtual War Room</sys_name>
+            <sys_package display_value="War room" source="x_41652_war_room">b727a8ccdb012300e75917803996190d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="War room">b727a8ccdb012300e75917803996190d</sys_scope>
+            <sys_update_name>sys_documentation_x_41652_war_room_virtual_war_room__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-04 14:40:07</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

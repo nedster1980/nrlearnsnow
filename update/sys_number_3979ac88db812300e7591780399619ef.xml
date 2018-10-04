@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_41652_war_room_virtual_war_room">x_41652_war_room_virtual_war_room</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>WAR</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-04 14:40:07</sys_created_on>
+        <sys_id>3979ac88db812300e7591780399619ef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WAR</sys_name>
+        <sys_package display_value="War room" source="x_41652_war_room">b727a8ccdb012300e75917803996190d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="War room">b727a8ccdb012300e75917803996190d</sys_scope>
+        <sys_update_name>sys_number_3979ac88db812300e7591780399619ef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-04 14:40:07</sys_updated_on>
+    </sys_number>
+</record_update>
